@@ -1,1 +1,2 @@
-# car-racing-v2
+# synchronousBallMovement
+Ball moving synchronously
